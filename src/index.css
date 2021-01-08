@@ -1,0 +1,42 @@
+* {
+    font-family: 'Quicksand', sans-serif;
+}
+
+/* Home page */
+
+.title-box, .ideas-box, .generate-ideas-btn-box, .copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title-box {
+    margin: 2em;
+}
+
+.copyright {
+    font-size: 1em;
+    margin: 1em;
+}
+
+.ideas-box {
+    font-size: 2em;
+    background-color: lightgray;
+    margin: 1em;
+}
+
+.nav-item a {
+    color: white;
+}
+
+/* About page */
+
+
+/* Responsive */
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
